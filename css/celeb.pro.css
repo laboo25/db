@@ -38,7 +38,36 @@
     background-position-x: center;
     background-position-y: center;
 }
-
+.box #pro-9 {
+    background-image: url(../image/profile/cobie-smulders-pro.jpg);
+    background-position-x: center;
+    background-position-y: center;
+}
+.box #pro-10 {
+    background-image: url(../image/profile/dakota-fanning-pro.jpg);
+    background-position-x: center;
+    background-position-y: center;
+}
+.box #pro-11 {
+    background-image: url(../image/profile/elle-fanning-pro.jpg);
+    background-position-x: center;
+    background-position-y: center;
+}
+.box #pro-12 {
+    background-image: url(../image/profile/emilia-clarke-pro.jpg);
+    background-position-x: center;
+    background-position-y: center;
+}
+.box #pro-13 {
+    background-image: url(../image/profile/emma-roberts-pro.jpg);
+    background-position-x: center;
+    background-position-y: center;
+}
+.box #pro-14 {
+    background-image: url(../image/profile/cobie-smulders-pro.jpg);
+    background-position-x: center;
+    background-position-y: center;
+}
 
 
 
@@ -52,6 +81,11 @@
 }
 .box #pro-36 {
     background-image: url(../image/profile/Deepika-Padukone-pro.jpg);
+    background-position-x: center;
+    background-position-y: center;
+}
+.box #pro-37 {
+    background-image: url(../image/profile/bela-thorne-pro.jpg);
     background-position-x: center;
     background-position-y: center;
 }
